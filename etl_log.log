@@ -1,0 +1,8 @@
+2025-03-01 02:11:50,063 - ERROR - SQLAlchemy PostgreSQL Connection Error: No module named 'psycopg2'
+2025-03-01 02:11:50,063 - ERROR - Failed to map Employee Names to IDs or data is empty. ETL process stopped.
+2025-03-01 02:15:58,148 - WARNING - Some rows have missing employee_id. These rows will be skipped.
+2025-03-01 02:15:58,915 - INFO - ETL Process Completed Successfully
+2025-03-03 19:00:01,254 - WARNING - Some rows have missing employee_id. These rows will be skipped.
+2025-03-03 19:29:54,092 - WARNING - Some rows have missing employee_id. These rows will be skipped.
+2025-03-03 19:38:41,759 - WARNING - Some rows have missing employee_id. These rows will be skipped.
+2025-03-03 19:48:03,529 - WARNING - Some rows have missing employee_id. These rows will be skipped.
